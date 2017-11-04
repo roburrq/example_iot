@@ -3,9 +3,10 @@
 Python 3.x
 Running
 First clone the repository to your computer via Git. Following commands are for Linux and Mac.
+```
 git clone https://github.com/roburrq/exampleiot
 cd iot-led
-
+```
 ### Flashing ESP32
 ```
 wget http://micropython.org/resources/firmware/esp32-20171017-v1.9.2-279-g090b6b80.bin
